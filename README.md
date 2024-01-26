@@ -21,7 +21,7 @@ Now, I code.
 ![](https://skillicons.dev/icons?i=sass,git,vscode,visualstudio,neovim,sqlite)
 
 #### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,react,expressjs,mongodb,)
+![](https://skillicons.dev/icons?i=typescript,react,expressjs,mongodb,nodejs)
 
 
 ### Contact
@@ -29,3 +29,6 @@ I am usually online on Discord. Strike me a DM if you need something.
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/453788186573930507)
 [![](https://skillicons.dev/icons?i=reddit)](https://discord.com/channels/@me/453788186573930507)
+
+----------------
+##### [config files](https://github.com/lezzthanthree/config-files) || [github.io](https://lezzthanthree.github.io)
