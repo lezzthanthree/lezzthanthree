@@ -18,10 +18,10 @@ Now, I code.
 ![](https://skillicons.dev/icons?i=html,css)
 
 #### Tools
-![](https://skillicons.dev/icons?i=sass,git,vscode,visualstudio,neovim,sqlite)
+![](https://skillicons.dev/icons?i=sass,git,vscode,visualstudio,neovim,sqlite,bash)
 
 #### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,react,expressjs,mongodb,nodejs)
+![](https://skillicons.dev/icons?i=typescript,dotnet,mongodb,expressjs,react,nodejs)
 
 
 ### Contact
