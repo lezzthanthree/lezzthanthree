@@ -18,7 +18,7 @@ Now, I code.
 ![](https://skillicons.dev/icons?i=html,css)
 
 #### Tools
-![](https://skillicons.dev/icons?i=sass,git,vscode,visualstudio,neovim,sqlite,bash)
+![](https://skillicons.dev/icons?i=sass,jquery,sqlite,git,vscode,visualstudio,neovim,bash)
 
 #### Currently Learning
 ![](https://skillicons.dev/icons?i=typescript,dotnet,mongodb,expressjs,react,nodejs)
