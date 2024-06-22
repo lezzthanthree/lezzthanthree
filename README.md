@@ -14,14 +14,11 @@ Now, I code.
 #### Languages
 ![](https://skillicons.dev/icons?i=js,cs,py)
 
-#### Web Development
-![](https://skillicons.dev/icons?i=html,css)
-
 #### Tools
-![](https://skillicons.dev/icons?i=sass,jquery,bootstrap,sqlite,git,vscode,visualstudio,neovim,bash)
+![](https://skillicons.dev/icons?i=react,sass,jquery,bootstrap,sqlite,git,vscode,visualstudio,neovim,bash)
 
 #### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,dotnet,mongodb,expressjs,react,nodejs)
+![](https://skillicons.dev/icons?i=typescript,dotnet,mongodb,expressjs,nodejs)
 
 
 ### Contact
