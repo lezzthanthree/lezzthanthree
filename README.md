@@ -25,10 +25,10 @@ Now, I code.
 
 
 ### Contact
-I am usually online on Discord. Strike me a DM if you need something.
+I am usually online on Discord. Strike me a DM if you need anything.
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/453788186573930507)
 [![](https://skillicons.dev/icons?i=reddit)](https://discord.com/channels/@me/453788186573930507)
 
 ----------------
-[config files](https://github.com/lezzthanthree/config-files) || [github.io](https://lezzthanthree.github.io)
+[config files](https://github.com/lezzthanthree/config-files) || [github.io](https://lezzthanthree.github.io) (in progress)
