@@ -15,7 +15,7 @@ Now, I code.
 ![](https://skillicons.dev/icons?i=js,cs,py)
 
 #### Web Development
-![](https://skillicons.dev/icons?i=django,react,sass,jquery,bootstrap,sqlite)
+![](https://skillicons.dev/icons?i=django,nextjs,react,sass,jquery,bootstrap,sqlite)
 
 #### Tools
 ![](https://skillicons.dev/icons?i=git,vscode,visualstudio,neovim,bash)
