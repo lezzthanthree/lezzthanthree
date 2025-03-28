@@ -12,16 +12,16 @@ Now, I code.
 ### Technologies I use
 
 #### Languages
-![](https://skillicons.dev/icons?i=js,cs,py)
+![](https://skillicons.dev/icons?i=ts,js,cs,py)
 
 #### Web Development
-![](https://skillicons.dev/icons?i=django,nextjs,react,sass,jquery,bootstrap,sqlite)
+![](https://skillicons.dev/icons?i=django,nextjs,react,sass,jquery,bootstrap,sqlite,postgres&perline=4)
 
 #### Tools
 ![](https://skillicons.dev/icons?i=git,vscode,visualstudio,neovim,bash)
 
 #### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,dotnet,mongodb,expressjs,nodejs)
+![](https://skillicons.dev/icons?i=dotnet,mongodb,expressjs,nodejs)
 
 
 ### Contact
