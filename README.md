@@ -21,7 +21,7 @@ Now, I code.
 ![](https://skillicons.dev/icons?i=git,vscode,visualstudio,neovim,bash)
 
 #### Currently Learning
-![](https://skillicons.dev/icons?i=dotnet,mongodb,expressjs,nodejs,spring)
+![](https://skillicons.dev/icons?i=dotnet,spring,mongodb,graphql,expressjs,nodejs)
 
 
 ### Contact
